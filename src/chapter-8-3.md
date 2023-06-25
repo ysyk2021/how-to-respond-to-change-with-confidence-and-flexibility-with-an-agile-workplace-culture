@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: Addressing Challenges and Setbacks
-=================================================================
+# Addressing Challenges and Setbacks
 
 In this chapter, we will explore the importance of leadership support in addressing challenges and setbacks when implementing an agile workplace culture. While an agile approach to work can bring numerous benefits to organizations, it also requires strong leadership support and commitment to overcome challenges and setbacks along the way.
 

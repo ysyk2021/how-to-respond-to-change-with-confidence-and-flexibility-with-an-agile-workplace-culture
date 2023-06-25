@@ -1,5 +1,4 @@
-Chapter 5: Prioritizing Employee Wellness: Managing Stress
-==========================================================
+# Managing Stress
 
 In this chapter, we will explore the importance of managing stress to prioritize employee wellness within an agile workplace culture. Stress can have a significant impact on both physical and mental health, leading to reduced productivity, engagement, and job satisfaction.
 

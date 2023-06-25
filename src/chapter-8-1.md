@@ -1,5 +1,4 @@
-Chapter 7: Leadership Support: The Role of Leadership in Supporting Agile Workplace Culture
-===========================================================================================
+# The Role of Leadership in Supporting Agile Workplace Culture
 
 In this chapter, we will explore the critical role of leadership in supporting an agile workplace culture. Leaders play a crucial role in creating a positive and productive work environment that enables individuals and teams to respond to change with confidence and flexibility.
 

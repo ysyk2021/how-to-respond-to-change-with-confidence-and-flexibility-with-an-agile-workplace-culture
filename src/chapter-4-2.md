@@ -1,5 +1,4 @@
-Chapter 3: Creating a Culture of Innovation: Encouraging Positive Behaviors and Attitudes
-=========================================================================================
+# Encouraging Positive Behaviors and Attitudes
 
 In this chapter, we will explore how to encourage positive behaviors and attitudes that foster innovation within an agile workplace. A culture of innovation is essential for responding to change with confidence and flexibility, and it depends on the attitudes and behaviors of individuals and teams.
 

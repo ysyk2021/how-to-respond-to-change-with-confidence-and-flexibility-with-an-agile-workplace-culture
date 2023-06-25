@@ -1,5 +1,4 @@
-Chapter 2: The Impact of Agile Workplace Culture on Organizational Success: The Costs of Ignoring Agile Workplace Culture
-=========================================================================================================================
+# The Costs of Ignoring Agile Workplace Culture
 
 In this chapter, we will explore the costs associated with ignoring agile workplace culture and failing to create a positive and productive work environment that enables individuals and teams to respond to change with confidence and flexibility.
 
