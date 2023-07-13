@@ -1,4 +1,4 @@
-Conclusion: Summary of Key Points
+Summary of Key Points
 =================================
 
 In this book, we have explored the concept of agile workplace culture and its importance in today's fast-paced business environment. Here is a summary of the key points covered:
