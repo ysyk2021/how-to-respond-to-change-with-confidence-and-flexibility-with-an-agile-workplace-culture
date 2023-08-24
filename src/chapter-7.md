@@ -1,5 +1,3 @@
-Chapter 6: Implementation
-=========================
 
 In this chapter, we will explore the key steps involved in implementing an agile workplace culture to respond to change with confidence and flexibility. Implementation is a critical step in the process of adopting an agile approach to work, and it requires careful planning, communication, and collaboration.
 

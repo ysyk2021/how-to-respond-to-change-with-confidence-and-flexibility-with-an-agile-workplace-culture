@@ -1,4 +1,3 @@
-# Modeling Agile Behaviors
 
 In this chapter, we will explore the importance of leaders modeling agile behaviors to support an agile workplace culture. Leaders play a critical role in creating a positive and productive work environment that enables individuals and teams to respond to change with confidence and flexibility.
 

@@ -1,4 +1,3 @@
-# The Risks to Employee Morale, Productivity, and Retention
 
 In this chapter, we will explore the risks to employee morale, productivity, and retention associated with an ineffective agile workplace culture. While a positive and productive agile workplace culture can drive growth, innovation, and success, a negative or poorly implemented culture can have significant consequences for both individuals and the organization as a whole.
 

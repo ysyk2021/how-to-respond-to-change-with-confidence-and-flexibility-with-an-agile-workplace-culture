@@ -1,5 +1,3 @@
-Chapter 3: Creating a Culture of Innovation
-===========================================
 
 In this chapter, we will explore the importance of creating a culture of innovation in responding to change with confidence and flexibility through the adoption of an agile workplace culture. A culture of innovation is essential for driving growth, developing new products and services, and staying ahead of the competition.
 

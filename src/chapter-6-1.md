@@ -1,4 +1,3 @@
-# Promoting Physical and Mental Health
 
 In this chapter, we will explore the importance of prioritizing employee wellness in an agile workplace culture. By promoting physical and mental health, organizations can support the well-being of their employees, driving productivity, engagement, and job satisfaction.
 

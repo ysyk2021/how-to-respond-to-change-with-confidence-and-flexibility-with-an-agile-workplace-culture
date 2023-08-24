@@ -1,4 +1,3 @@
-# Balancing Work and Personal Life
 
 In this chapter, we will discuss the importance of prioritizing employee wellness in an agile workplace culture. While agility and adaptability are important in today's fast-paced business environment, it is equally important to ensure that employees are able to maintain a healthy work-life balance.
 

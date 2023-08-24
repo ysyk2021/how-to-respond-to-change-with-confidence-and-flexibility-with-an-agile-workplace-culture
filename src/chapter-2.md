@@ -1,5 +1,3 @@
-Chapter 1: Defining Agile Workplace Culture
-===========================================
 
 In this chapter, we will define agile workplace culture and explore the benefits of adopting an agile approach to work. Agile workplace culture is essential for responding to change with confidence and flexibility, and it can have a significant impact on organizational success.
 

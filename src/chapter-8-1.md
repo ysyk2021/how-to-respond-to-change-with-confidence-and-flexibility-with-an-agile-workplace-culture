@@ -1,4 +1,3 @@
-# The Role of Leadership in Supporting Agile Workplace Culture
 
 In this chapter, we will explore the critical role of leadership in supporting an agile workplace culture. Leaders play a crucial role in creating a positive and productive work environment that enables individuals and teams to respond to change with confidence and flexibility.
 
@@ -36,5 +35,4 @@ Conclusion
 Leadership plays a critical role in supporting an agile workplace culture. By modeling agile behaviors, providing necessary resources and support, creating a positive work environment, and communicating effectively, leaders can create a culture that supports growth, development, and success over time.
 
 Through their commitment to leadership support, leaders can create an agile workplace culture that drives productivity, innovation, and employee engagement, while also responding to change with confidence and flexibility in today's rapidly changing business environment.
-
 

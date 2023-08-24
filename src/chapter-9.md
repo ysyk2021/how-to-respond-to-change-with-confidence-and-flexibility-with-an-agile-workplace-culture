@@ -1,5 +1,3 @@
-Chapter 8: Future Directions
-============================
 
 In this chapter, we will explore future directions for building and maintaining an agile workplace culture. As the business environment continues to evolve and change, it is essential for organizations to remain adaptable and flexible in order to thrive.
 

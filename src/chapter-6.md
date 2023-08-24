@@ -1,5 +1,3 @@
-Chapter 5: Prioritizing Employee Wellness
-=========================================
 
 In this chapter, we will explore the importance of prioritizing employee wellness in responding to change with confidence and flexibility through the adoption of an agile workplace culture. Employee wellness is essential for maintaining productivity, engagement, and job satisfaction, while also reducing turnover and associated costs.
 
