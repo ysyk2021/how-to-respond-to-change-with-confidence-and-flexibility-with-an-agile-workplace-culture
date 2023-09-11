@@ -1,5 +1,4 @@
-Chapter 10: Looking Ahead to the Future of a Workforce with an Agile Workplace Culture
-======================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As we delve into the final chapter of this book, we turn our gaze toward the horizon to anticipate what the future holds for organizations that embrace and nurture agile workplace cultures. The principles and practices discussed in this book are not static; they evolve to meet the challenges and opportunities of the ever-changing business landscape.
 

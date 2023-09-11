@@ -1,5 +1,4 @@
-Chapter 15: Cultivating a Growth Mindset Towards Change
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the concept of a growth mindset and how it plays a pivotal role in fostering confidence and flexibility in an agile workplace culture. We'll delve into strategies for individuals and organizations to cultivate this mindset and embrace change as an opportunity for growth.
 

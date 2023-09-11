@@ -1,5 +1,4 @@
-Chapter 6: Promoting Creativity and Risk-Taking
-===============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Promoting creativity and risk-taking is fundamental to building an agile workplace culture that responds to change with confidence and flexibility. In this chapter, we will explore strategies and techniques for fostering a culture that encourages innovative thinking and the willingness to take calculated risks.
 

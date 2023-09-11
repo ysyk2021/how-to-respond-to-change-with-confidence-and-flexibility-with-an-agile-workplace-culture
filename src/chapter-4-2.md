@@ -1,5 +1,4 @@
-Chapter 5: Encouraging Positive Behaviors and Attitudes
-=======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Encouraging positive behaviors and attitudes is a fundamental aspect of cultivating an agile workplace culture that responds to change with confidence and flexibility. In this chapter, we will explore strategies and techniques for fostering a positive environment where employees are motivated, engaged, and empowered to adapt to change effectively.
 

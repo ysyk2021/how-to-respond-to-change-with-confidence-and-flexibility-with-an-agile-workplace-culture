@@ -1,5 +1,4 @@
-Chapter 7: The Risks to Employee Morale, Productivity, and Retention
-====================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the potential risks that changes within an agile workplace culture can pose to employee morale, productivity, and retention. It's essential to understand these risks to develop effective strategies for mitigating them and ensuring a thriving and resilient workforce.
 

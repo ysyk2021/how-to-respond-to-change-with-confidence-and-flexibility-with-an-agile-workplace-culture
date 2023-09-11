@@ -1,5 +1,4 @@
-Chapter 12: Implementing Agile Workplace Strategies for Responding to Change with Confidence and Flexibility
-============================================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the practical steps and considerations for implementing agile workplace strategies to respond to change with confidence and flexibility. Building on the concepts discussed throughout this book, we will provide a roadmap for organizations seeking to embrace agility effectively.
 

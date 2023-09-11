@@ -1,5 +1,4 @@
-Chapter 1: What is Agile Workplace Culture?
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In a world marked by constant change and unpredictability, organizations must adapt swiftly to stay competitive and thrive. The key to navigating this dynamic landscape lies in cultivating an agile workplace culture. In this chapter, we will delve into what constitutes an agile workplace culture and why it is essential for responding to change with confidence and flexibility.
 

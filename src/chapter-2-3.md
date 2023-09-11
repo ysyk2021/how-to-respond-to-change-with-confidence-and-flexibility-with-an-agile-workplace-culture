@@ -1,5 +1,4 @@
-Chapter 7: Examples of Successful Agile Workplace Strategies in Practice
-========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will examine real-world examples of organizations that have successfully implemented agile workplace strategies to respond to change with confidence and flexibility. These case studies illustrate the practical application of agile principles and offer valuable insights into how they can be tailored to suit different industries and contexts.
 

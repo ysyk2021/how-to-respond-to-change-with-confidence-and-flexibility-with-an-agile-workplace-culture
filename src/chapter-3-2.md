@@ -1,5 +1,4 @@
-Chapter 10: The Costs of Ignoring Agile Workplace Culture
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the significant costs and consequences that organizations may incur when they neglect to embrace and cultivate an agile workplace culture. Ignoring the principles of agility can have far-reaching implications that affect an organization's competitiveness, sustainability, and overall success.
 

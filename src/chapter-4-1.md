@@ -1,5 +1,4 @@
-Chapter 5: Building an Environment that Fosters Innovation
-==========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Creating an environment that encourages innovation is crucial in responding to change with confidence and flexibility. In this chapter, we will explore the essential elements and strategies for building a workplace culture that nurtures and celebrates innovation.
 

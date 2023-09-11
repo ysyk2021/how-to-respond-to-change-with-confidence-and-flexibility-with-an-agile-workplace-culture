@@ -1,5 +1,4 @@
-Chapter 4: Understanding the Impact of Agile Workplace Culture on Organizational Success
-========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore the profound influence that an agile workplace culture can have on an organization's overall success. Understanding how agility contributes to success is essential for leaders and decision-makers seeking to navigate change with confidence and flexibility.
 

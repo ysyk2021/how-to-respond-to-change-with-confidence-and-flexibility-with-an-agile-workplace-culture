@@ -1,5 +1,4 @@
-Chapter 8: Balancing Work and Personal Life
-===========================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Maintaining a healthy work-life balance is a critical aspect of fostering a confident and flexible agile workplace culture. In this chapter, we'll explore strategies and techniques to help individuals and organizations strike a harmonious equilibrium between their professional responsibilities and personal well-being.
 

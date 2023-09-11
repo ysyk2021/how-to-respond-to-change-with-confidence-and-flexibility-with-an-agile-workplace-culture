@@ -1,5 +1,4 @@
-Chapter 2: Overview of Agile Workplace Culture
-==============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will delve into the fundamental concepts of an agile workplace culture, laying the groundwork for understanding how it enables organizations and individuals to respond to change with confidence and flexibility.
 

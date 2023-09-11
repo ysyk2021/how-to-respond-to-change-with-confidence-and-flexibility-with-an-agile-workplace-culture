@@ -1,5 +1,4 @@
-Chapter 6: Innovations in Building an Agile Workplace Culture
-=============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In this chapter, we will explore innovative approaches and strategies for building and nurturing an agile workplace culture. As the business landscape continues to evolve, staying ahead requires creative and forward-thinking approaches to agility.
 

@@ -1,5 +1,4 @@
-Chapter 9: Building Self-Confidence
-===================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Self-confidence is a crucial component of responding to change with confidence and flexibility within an agile workplace culture. In this chapter, we will explore strategies and techniques to help individuals and teams build self-confidence, empowering them to embrace change and adapt effectively.
 

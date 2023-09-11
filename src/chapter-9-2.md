@@ -1,5 +1,4 @@
-Chapter 8: Addressing New Challenges in Promoting Agility
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 As organizations strive to build and maintain agile workplace cultures, they encounter evolving challenges that require innovative solutions. In this chapter, we will explore the emerging challenges and strategies for addressing them to promote and sustain agility effectively.
 

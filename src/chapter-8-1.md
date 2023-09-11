@@ -1,5 +1,4 @@
-Chapter 5: The Role of Leadership in Supporting Agile Workplace Culture
-=======================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the quest to foster an agile workplace culture, the role of leadership cannot be overstated. Leaders serve as the guiding force, setting the tone, and providing the necessary support to enable agility to flourish within an organization. This chapter explores the critical role of leadership in nurturing and sustaining an agile workplace culture.
 

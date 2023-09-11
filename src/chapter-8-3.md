@@ -1,5 +1,4 @@
-Chapter 7: Addressing Challenges and Setbacks
-=============================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 In the pursuit of building an agile workplace culture, it's essential to acknowledge that challenges and setbacks are an inherent part of the journey. This chapter explores how organizations can effectively address and learn from these obstacles to maintain confidence and flexibility in the face of change.
 
